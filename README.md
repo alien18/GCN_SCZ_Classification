@@ -1,6 +1,6 @@
 # GCN_SCZ_Classification
 
-This repository provides core code and toolboxes for analysis in the paper entitled "Graph convolutional networks reveal network-level functional dysconnectivity in schizophrenia" by Lei et al. 2022. Please check the paper for the latest description of data analysis.
+This repository provides core code and toolboxes for analysis in the paper entitled "Graph convolutional networks reveal network-level functional dysconnectivity in schizophrenia" by Lei et al. Please check the paper for the latest description of data analysis.
 
 # Overview
 Content includes demo data and source code for the implementation of graph convolutional network (GCN), linear support vector machine (SVM) and non-linear SVM with radial basis function (RBF) kernel. The Codes for ComBat harmonization methods is supported by [NeuroComBat-sklearn](https://github.com/Warvito/neurocombat_sklearn).
