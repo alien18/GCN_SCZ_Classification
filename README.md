@@ -16,11 +16,11 @@ Content includes demo data and source code for the implementation of graph convo
 
 # Toolboxes
 
-All other toolboxes and codes used in our study for image preprocessing, ancillary analysis and visualization are shown below:
+All other toolboxes and codes used in our study for image preprocessing, harmonization, ancillary analysis and visualization are shown below:
 
 - [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
+- [NeuroComBat-sklearn](https://github.com/Warvito/neurocombat_sklearn)
+- [Neuroharmony](https://github.com/garciadias/Neuroharmony)
 - [GraphSaliencyMap](https://github.com/sarslancs/graph_saliency_maps)
 - [GRETNA](https://www.nitrc.org/projects/gretna/)
 - [BrainNetViewer](https://www.nitrc.org/projects/bnv/)
-- [NeuroComBat-sklearn](https://github.com/Warvito/neurocombat_sklearn)
-- [Neuroharmony](https://github.com/garciadias/Neuroharmony)
