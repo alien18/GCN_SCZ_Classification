@@ -3,7 +3,7 @@
 This repository provides core code and toolboxes for analysis in the paper entitled "Graph convolutional networks reveal network-level functional dysconnectivity in schizophrenia" by Lei et al. Please check the paper for the latest description of data analysis.
 
 # Overview
-Content includes demo data and source code for the implementation of graph convolutional network (GCN), linear support vector machine (SVM) and non-linear SVM with radial basis function (RBF) kernel on a large multi-site schizophrenia fMRI dataset. The site effects are eliminated by using ComBat Harmonization. The Codes for ComBat harmonization methods is supported by [NeuroComBat-sklearn](https://github.com/Warvito/neurocombat_sklearn).
+Content includes demo data and source code for the implementation of graph convolutional network (GCN), linear support vector machine (SVM) and non-linear SVM with radial basis function (RBF) kernel on a large multi-site schizophrenia fMRI dataset. The site effects are eliminated by using ComBat Harmonization. The Codes for ComBat harmonization methods is supported by [NeuroComBat-sklearn](https://github.com/Warvito/neurocombat_sklearn). All custom codes were tested on Linux Ubuntu 20.04 LTS PC.
 
 # Requirements
 - Python (>= 3.5)
